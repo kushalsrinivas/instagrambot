@@ -6,7 +6,7 @@ from converter import converter
 import time
 bot = instabot.Bot()
 
-bot.login(username="the.sidewalk.project", password="iloveyousugar")
+bot.login(username="", password="")
 
 # Generate a random caption
 hashtags = '\n\n\n\n\n#photography #streetphotography #filmphotography #analogphotography #filmisnotdead #ishootfilm #believeinfilm #shootfilmstaybroke #thefilmcommunity #buyfilmnotmegapixels #analogvibes #filmwave #fujifilm #fujifilm_xseries #fujilove #fujifilm_global #fujifeed #fujixt4 #fujifilm_northamerica #urbanphotography #cityscape #architecturephotography #lightandshadow #moodygrams #visualsoflife #thecreatorclass #artofvisuals #visualambassadors #instagram #wanderlust'
